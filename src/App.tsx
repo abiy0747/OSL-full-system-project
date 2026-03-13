@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 function App() {
   return (
     <div className="container text-center py-5">
-      {/* Logo */}
       <div className="mb-4">
         <img
           src={reactLogo}
